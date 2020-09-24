@@ -597,7 +597,7 @@ section {
 
 .counts .title {
   position: relative;
-  color: #0f394c;
+  color: #000;
   margin-bottom: 40px;
 }
 
@@ -610,7 +610,7 @@ section {
   font-size: 44px;
   font-weight: 700;
   display: block;
-  color: #49b5e7;
+  color: #000;
   font-family: "Dosis", sans-serif;
 }
 
