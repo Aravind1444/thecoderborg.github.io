@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+# coderBorg
+coderBorg is a free platform where anyone can avail free and high quality technical education resources
 
-Template Name: Butterfly
-Template URL: https://bootstrapmade.com/butterfly-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
