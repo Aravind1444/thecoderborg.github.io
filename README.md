@@ -4,7 +4,7 @@
 
 <p>coderBorg is a free platform where anyone can avail free and high quality technical education resources. The features of coderBorg are :</p>
 
-- Free Content
+- Free content always
 
 - High Quality 
 
